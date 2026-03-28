@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Demi-urge.github.io/pet-gear-picks/sitemap.xml
